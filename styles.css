@@ -17,3 +17,14 @@
     font-size: 18px;
     gap: 30px;
 }
+
+.hero{
+    display: flex;
+}
+
+.right-image{
+    max-height: 100%;
+    max-width: 100%;
+    width: 100px;
+    flex-shrink: 2;
+}
