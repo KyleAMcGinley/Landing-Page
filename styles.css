@@ -20,11 +20,26 @@
 
 .hero{
     display: flex;
+    background-color: #1F2937;
+}
+
+.hero-header{
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.left-text{
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.sign-up{
+    background-color: #3882F6;
+    color: white;
+
 }
 
 .right-image{
-    max-height: 100%;
-    max-width: 100%;
-    width: 100px;
-    flex-shrink: 2;
+    
 }
