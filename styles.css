@@ -9,6 +9,7 @@
 .header-logo{
     color: #F9FAF8;
     font-size: 24px;
+    padding-left: 50px;
 }
 
 .header-links{
@@ -16,30 +17,35 @@
     color: #E5E7EB;
     font-size: 18px;
     gap: 30px;
+    padding-right: 50px;
 }
 
 .hero{
     display: flex;
     background-color: #1F2937;
+    justify-content: center;
 }
 
 .hero-header{
     color: #F9FAF8;
     font-size: 48px;
     font-weight: 800;
+    display: flex;
 }
 
 .left-text{
     color: #E5E7EB;
     font-size: 18px;
+    padding-left: 50px;
 }
 
 .sign-up{
     background-color: #3882F6;
     color: white;
+    border-color: #3882F6;
 
 }
 
 .right-image{
-    
+    padding-right: 50px;
 }
