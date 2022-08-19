@@ -51,6 +51,14 @@ body{
 
 }
 
-.information{
+.information, .information-image, .information-image-text{
     display: flex;
+}
+
+.information-image{
+    max-width: 200px;
+    max-height: 200px;
+    height: auto;
+    width: auto;
+    flex-direction: column;
 }
