@@ -72,3 +72,9 @@ body{
     width: auto;
     flex-direction: column;
 }
+
+.information-header{
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937;
+}
