@@ -51,12 +51,18 @@ body{
 
 }
 
-.information, .information-image, .information-image-text{
+.information, .information-image, .information-image-text, .information-all-images{
     display: flex;
+}
+
+.information-all-images{
+   flex-direction: row;
+   flex-wrap: wrap;
 }
 
 .information{
     flex-direction: column;
+    align-items: center;
 }
 
 .information-image{
