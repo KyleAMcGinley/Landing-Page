@@ -55,6 +55,10 @@ body{
     display: flex;
 }
 
+.information{
+    flex-direction: column;
+}
+
 .information-image{
     max-width: 200px;
     max-height: 200px;
